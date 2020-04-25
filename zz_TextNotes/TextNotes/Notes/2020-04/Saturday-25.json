@@ -1,0 +1,75 @@
+{
+    "DateString": "4/25/2020",
+    "Tags": [
+        "new",
+        "tags",
+        "borp",
+        "florb",
+        "neet",
+        "nort",
+        "saturday",
+        "release",
+        "test"
+    ],
+    "Entries": [
+        {
+            "TimestampString": "8:31 AM",
+            "Tags": [
+                "new",
+                "tags"
+            ],
+            "Comments": [
+                "comment"
+            ]
+        },
+        {
+            "TimestampString": "8:31 AM",
+            "Tags": [
+                "borp",
+                "florb"
+            ],
+            "Comments": [
+                "commmmmmmmmmmmmmmmmmmmmmmmmm"
+            ]
+        },
+        {
+            "TimestampString": "8:31 AM",
+            "Tags": [
+                "neet",
+                "nort"
+            ],
+            "Comments": [
+                "neet nort"
+            ]
+        },
+        {
+            "TimestampString": "8:31 AM",
+            "Tags": [
+                "saturday"
+            ],
+            "Comments": [
+                "got up"
+            ]
+        },
+        {
+            "TimestampString": "8:46 AM",
+            "Tags": [
+                "release",
+                "test"
+            ],
+            "Comments": [
+                "this is a release test"
+            ]
+        },
+        {
+            "TimestampString": "8:49 AM",
+            "Tags": [
+                "new",
+                "test"
+            ],
+            "Comments": [
+                "this is another test"
+            ]
+        }
+    ]
+}

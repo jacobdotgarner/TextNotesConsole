@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d7FbGSylc2rD4b9cIkgPmO2A59AjYXvejxzj6JKm/HXCIBz51zOBLHI0sU40GQBYczwxll4KbXAengH0gNqC0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jake\\git\\TextNotes\\TextNotes\\TextNotes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jake\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

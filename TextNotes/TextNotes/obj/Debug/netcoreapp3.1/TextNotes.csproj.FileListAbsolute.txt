@@ -1,0 +1,15 @@
+C:\Users\Jake\git\TextNotes\TextNotes\bin\Debug\netcoreapp3.1\TextNotes.exe
+C:\Users\Jake\git\TextNotes\TextNotes\bin\Debug\netcoreapp3.1\TextNotes.deps.json
+C:\Users\Jake\git\TextNotes\TextNotes\bin\Debug\netcoreapp3.1\TextNotes.runtimeconfig.json
+C:\Users\Jake\git\TextNotes\TextNotes\bin\Debug\netcoreapp3.1\TextNotes.runtimeconfig.dev.json
+C:\Users\Jake\git\TextNotes\TextNotes\bin\Debug\netcoreapp3.1\TextNotes.dll
+C:\Users\Jake\git\TextNotes\TextNotes\bin\Debug\netcoreapp3.1\TextNotes.pdb
+C:\Users\Jake\git\TextNotes\TextNotes\obj\Debug\netcoreapp3.1\TextNotes.csprojAssemblyReference.cache
+C:\Users\Jake\git\TextNotes\TextNotes\obj\Debug\netcoreapp3.1\TextNotes.AssemblyInfoInputs.cache
+C:\Users\Jake\git\TextNotes\TextNotes\obj\Debug\netcoreapp3.1\TextNotes.AssemblyInfo.cs
+C:\Users\Jake\git\TextNotes\TextNotes\obj\Debug\netcoreapp3.1\TextNotes.dll
+C:\Users\Jake\git\TextNotes\TextNotes\obj\Debug\netcoreapp3.1\TextNotes.pdb
+C:\Users\Jake\git\TextNotes\TextNotes\obj\Debug\netcoreapp3.1\TextNotes.genruntimeconfig.cache
+C:\Users\Jake\git\TextNotes\TextNotes\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jake\git\TextNotes\TextNotes\obj\Debug\netcoreapp3.1\TextNotes.csproj.CoreCompileInputs.cache
+C:\Users\Jake\git\TextNotes\TextNotes\obj\Debug\netcoreapp3.1\TextNotes.csproj.CopyComplete
