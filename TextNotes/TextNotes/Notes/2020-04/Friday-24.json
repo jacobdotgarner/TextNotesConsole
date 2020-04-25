@@ -1,0 +1,46 @@
+{
+  "DateString": "4/24/2020",
+  "Tags": [ "a", "b", "c", "pots", "ejfwioajweoia", "m", "general" ],
+  "Entries": [
+    {
+      "TimestampString": "11:53 PM",
+      "Tags": [ "a", "b" ],
+      "Comments": [ "ewijfoaewjifa" ]
+    },
+    {
+      "TimestampString": "11:54 PM",
+      "Tags": [ "b", "c" ],
+      "Comments": [ "fwjeioajewifoawejifew" ]
+    },
+    {
+      "TimestampString": "11:54 PM",
+      "Tags": [ "c", "a" ],
+      "Comments": [ "ejfwioajewf", "fejiwoajfwei" ]
+    },
+    {
+      "TimestampString": "11:54 PM",
+      "Tags": [ "pots" ],
+      "Comments": [ "things n stuff" ]
+    },
+    {
+      "TimestampString": "11:55 PM",
+      "Tags": [ "ejfwioajweoia" ],
+      "Comments": [ "fjeiwoajfewoijea", "efjwoifwejawoijfewoa" ]
+    },
+    {
+      "TimestampString": "11:55 PM",
+      "Tags": [ "b", "m" ],
+      "Comments": [ "lsiejfa" ]
+    },
+    {
+      "TimestampString": "11:57 PM",
+      "Tags": [ "general" ],
+      "Comments": [ "took a break" ]
+    },
+    {
+      "TimestampString": "11:57 PM",
+      "Tags": [ "general" ],
+      "Comments": [ "back from break" ]
+    }
+  ]
+}
